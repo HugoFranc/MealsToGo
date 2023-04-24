@@ -5,7 +5,7 @@
     <img src="https://user-images.githubusercontent.com/55465856/219907923-d6b46c6c-2ecf-48c6-bde4-917f75d50231.png" alt="Logo" width="120" height="100">
   </a>
 
-  <h1 align="center"> FocusTime </h1>
+  <h1 align="center"> MealsToGo </h1>
 
   <p align="center">
     Course project from ZTM 
