@@ -17,7 +17,7 @@
 
 ## App Demo:
 
-https://user-images.githubusercontent.com/55465856/219907688-d5612b8f-5c10-4637-abbb-0aa0f5317f9e.mp4
+
 
 ## How to run this project:
 
