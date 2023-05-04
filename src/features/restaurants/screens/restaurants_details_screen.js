@@ -1,7 +1,7 @@
 import React from "react";
 import { SafeArea } from '../../../components/utility/safe-area.component';
 import { RestaurantInfoCard } from '../components/restaurant_info_card.component';
-
+import { RestaurantDetails } from "../components/restaurant_details.component";
 
 export const RestaurantDetailScreen = ({ route }) => {
 
@@ -9,6 +9,7 @@ export const RestaurantDetailScreen = ({ route }) => {
     return (
         < SafeArea >
             <RestaurantInfoCard restaurant={restaurantInfo} />
+            <RestaurantDetails />
         </SafeArea >
     )
 
