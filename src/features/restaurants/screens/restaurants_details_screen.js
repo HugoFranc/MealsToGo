@@ -5,10 +5,10 @@ import { RestaurantDetails } from "../components/restaurant_details.component";
 
 export const RestaurantDetailScreen = ({ route }) => {
 
-    const { restaurantInfo } = route.params;
+    const { restaurant } = route.params;
     return (
         < SafeArea >
-            <RestaurantInfoCard restaurant={restaurantInfo} />
+            <RestaurantInfoCard restaurant={restaurant} />
             <RestaurantDetails />
         </SafeArea >
     )
